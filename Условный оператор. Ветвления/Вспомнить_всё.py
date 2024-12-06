@@ -1,0 +1,1 @@
+print(input() + " ? Of course, I remember, because we went through this in the last lesson!")
