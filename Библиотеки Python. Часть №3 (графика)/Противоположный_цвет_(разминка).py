@@ -1,0 +1,1 @@
+print(*[255 - int(x) for x in input().split()])
